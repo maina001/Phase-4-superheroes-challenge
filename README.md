@@ -217,8 +217,8 @@
 
 # Contributor
 
-- [ ![BuiltBy](https://img.shields.io/badge/Built-By-GE7A10?style=flat-square&logo=BuzzFeed&logoColor=white)](https://github.com/stephen-nene)
-  **[stevo-nene](https://github.com/stephen-nene)**
+- [ ![BuiltBy](https://img.shields.io/badge/Built-By-GE7A10?style=flat-square&logo=BuzzFeed&logoColor=white)](https://github.com/maina001)
+  **[Brian Maina](https://github.com/maina001/Phase-4-superheroes-challenge/edit)**
 
 # License
 
